@@ -1,4 +1,9 @@
-### Hi there 👋
+<h2 align="center">Merhaba Dostum 👋</h2>
+<p align="center">
+  <a href="https://discord.com/users/783815790415314944" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.youtube.com/channel/UCgUR-WcNIK7PIdO-Z9F_PEw" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://github.com/srogzy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=srogzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="srogzy's Github Stats">
@@ -6,14 +11,6 @@
 <div align = "center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=srogzy&layout=compact&theme=tokyonight" width = "% 100" height = "150px"  />
 </div>
-
-<h2 align="center">Merhaba Dostum 👋</h2>
-<p align="center">
-  <a href="https://discord.com/users/431140096821952513" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.reddit.com/user/Antiperess" target"blank_"><img src="https://img.shields.io/badge/reddit%20-ff3b00.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCwGWcg_Du6idPMuu1ZfSd5w" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://github.com/Antiperes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 
 
