@@ -20,7 +20,6 @@ Spotify Oynatılıyor 🎧
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
-    <div align="center">
 <p>Profilime kaç kişi tıkladı?</p>
 <img src="https://profile-counter.glitch.me/{Srogzy}/count.svg" /> 
 <br/> 
