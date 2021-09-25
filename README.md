@@ -14,7 +14,7 @@
 
 
 
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/857646013749657690)](https://discord.com/users/857646013749657690)
 Spotify Oynatılıyor 🎧
 
 
