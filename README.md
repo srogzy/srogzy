@@ -11,7 +11,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=srogzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Srogzy's Github Stats">
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/592093326170390559?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/592093326170390559)
+[![Discord Presence](https://srogzy-profile-readme.vercel.app/api/592093326170390559?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/592093326170390559)
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Drinking</h1>
 
