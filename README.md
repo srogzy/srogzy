@@ -10,7 +10,7 @@
 <img align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=srogzy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Srogzy's Github Stats">
 
-![Discord](https://discord.c99.nl/widget/theme-4/918219957874073630.png)
+![Discord](https://discord.c99.nl/widget/theme-4/592093326170390559.png)
 
  <h1 style="font-size:300%;"><img src = "https://cdn.discordapp.com/emojis/812305547436883968.png?v=1" high="20px" width="40px"> Drinking</h1>
 
