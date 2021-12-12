@@ -8,7 +8,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/592093326170390559
                             )](https://discord.com/users/592093326170390559)
-<p align="law">
+<p align="right">
  <img src="https://count.getloli.com/get/@:srogzy?theme=rule34" alt=":srogzy" />
 
 Spotify Oynatılıyor 🎧
