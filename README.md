@@ -28,3 +28,4 @@ Spotify Oynatılıyor 🎧
 <img src="https://profile-counter.glitch.me/{Srogzy}/count.svg" /> 
 <br/> 
 </html>
+  <img src="https://count.getloli.com/get/@:srogzy?theme=rule34" alt=":spxnker" />
