@@ -3,7 +3,7 @@
 </div>
 
 
-|Stalk count:					|	![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)
+|Stalk count:					|	![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)|
 
 #
  
