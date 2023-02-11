@@ -5,7 +5,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-   ![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)|
+  &nbsp; <br> ![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)|
 
 #
  
