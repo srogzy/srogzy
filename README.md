@@ -3,7 +3,7 @@
 </div>
 
 
-![counter](https://profile-counter.glitch.me/{srogzy}/count.svg)
+|Stalk count:					|	![counter](https://profile-counter.glitch.me/{Tantoony}/count.svg)
 
 #
  
