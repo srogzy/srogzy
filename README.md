@@ -2,7 +2,7 @@
 <img width="80%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&width=435&lines=Welcome+To+My+Profile!;I'am+Srogzy.;A+learning+new+things.">
 </div>
 
- <img src="https://count.getloli.com/get/@:srogzy?theme=rule34" alt=":srogzy" />
+ <img src="https://count.getloli.com/get/@:srogzy?theme=rule34" alt=":srogzy:" />
 
 #
  
