@@ -31,13 +31,7 @@ export default Srogzy
                             )](https://discord.com/users/592093326170390559)
   
 
-
 Spotify Oynatılıyor 🎧
-
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yhr11ekghb0fhsnt4px6yfxou&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yhr11ekghb0fhsnt4px6yfxou&redirect=true)
 
